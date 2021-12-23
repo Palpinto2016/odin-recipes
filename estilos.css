@@ -1,0 +1,157 @@
+
+       body{
+         background-color: rgb(38, 38, 49);
+       }  
+          
+      .container{ 
+       background-color: #141f2e;
+       color: white;
+       width: 800px;
+       height: 1000px;
+       display: flex;
+       margin-left: auto;
+       margin-right: auto;
+       
+                                   
+       }
+      nav{
+        margin-right: 45px;
+      }
+       
+     ul{
+        display: flex;
+        gap: 30px;
+        list-style: none;
+        height: 25px;
+        width: 200px;
+        margin-left: 350px;
+        margin-top: 15px;
+                          
+       }
+                  
+     .logo{
+       margin-left: 50px;
+       margin-top: 15px;
+       font-size: 25px;
+       color: white
+     }
+      h5{
+        margin-top: 180px;
+        position: absolute;
+        margin-left: 50px;
+      }
+      
+      .titulo{
+        width: 200px;
+        height: 50px;
+        position: absolute;
+        margin-top: 100px;
+        font-size: 30px;
+        font-family: extra bold;
+        color: #F9FAF8;
+        margin-left: 50px;
+      }
+      button{
+        background-color: #3882f6;
+        height: 30px;
+        width: 80px;
+        color: white;
+        margin-top: 220px;
+        position: absolute;
+        border-radius: 10px;
+        text-align: center;
+        margin-left: 50px;
+      }
+      .ropa{
+        width: 300px;
+        height: 150px;
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 450px
+        ;
+      }
+      .info{
+        background-color: white;
+        width: 800px;
+        height: 300px;
+        margin-top: 300px;
+        position: absolute;
+      }
+      h3{
+        color: #1F2937;
+        text-align: center;
+        font-size: 30px;
+      }
+      .jeans{
+       
+        width: 150px;
+        height: 150px;
+        border-radius: 20px;
+        padding: 10px;
+                 
+      }
+      .fotos{
+        display: flex;
+        justify-content: center;
+
+      }
+      .parrafo{
+        background-color: #E5E7EB;
+        height: 150px;
+        width: 800px;
+             
+      
+      }
+      .opinion{
+        color: black;
+        font-family: extra-bold italic;
+        font-size: 25px;
+        align-items: center;
+        line-height: 150px;
+        text-align: center;
+        
+        
+      }
+      .registro{
+        background-color: white;
+        color: black;
+        width: 800px;
+        height: 150px;
+              
+      }
+      .blue{
+        position:absolute;
+        background-color: #3882f6;
+        font-size: 18px;
+        font-family: extra-bold;
+        color: white;
+        height: 100px;
+        width: 700px;
+        margin: 25px 45px;
+        border-radius: 20px;
+                             
+      }
+      .accion{
+       margin-left: 25px;
+      }
+      .signup{
+        margin-top: -60px;
+        background-color: #3882f6;
+        background-color: ;
+        margin-left: 550px;
+        border: 1px solid white;
+
+      }
+      .copyright{
+        font-size: 20px;
+        color: white;
+        margin: 40px auto 30px auto;
+
+
+        
+
+      }
+      
+
+      
+     
